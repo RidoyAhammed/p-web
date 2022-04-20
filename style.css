@@ -1,4 +1,10 @@
 .color{
     background-color: black;
     color:white;
+    border:10px solid purple;
+    border-radius: 30px;
+    margin: 20px 20px;
+    width: 80%;
+    padding: 10px;
+
 }
